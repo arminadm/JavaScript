@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 10px;
+}
+
+#game {
+    text-align: center;
+    height: 100%;
+    background: rgb(224, 215, 209);
+}
+
+.titr {
+    font-size: 4em;
+}
+
+#result {
+    font-size: 2em;
+    color: black;
+}
